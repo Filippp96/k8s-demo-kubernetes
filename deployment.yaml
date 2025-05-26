@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: k8s-demo-app-acr.azurecr.io/images:app-7
+      - image: acrk8sdemoappdev.azurecr.io/images:app-6
         name: flaskdemo
         resources: {}
 status: {}
