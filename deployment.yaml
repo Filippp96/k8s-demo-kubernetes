@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: acrk8sdemoappdev.azurecr.io/images:app-19
+        image: acrk8sdemoappdev.azurecr.io/images:app-20
         ports:
         - containerPort: 5000
         resources:
