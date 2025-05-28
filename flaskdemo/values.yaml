@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: acrk8sdemoappdev.azurecr.io/images
-  tag: "app-1"  # Ten tag jest automatycznie aktualizowany przez pipeline
+  tag: "app-26"  # Ten tag jest automatycznie aktualizowany przez pipeline
 
 service:
   name: flask-service
